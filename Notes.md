@@ -1,10 +1,6 @@
 # AI Engineering from Leverage
 
-Source: [Website](https://www.leverage.to/), [Documents](https://www.leverage.to/learn/dev/ai_engineering_patterns#6-ai-engineering-patterns)
-
----
-
-# 0. 6 AI Engineering Patterns
+## 0. Six AI Engineering Patterns
 
 **Models**
 
