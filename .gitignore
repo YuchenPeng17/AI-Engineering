@@ -1,2 +1,6 @@
 # API keys / secrets
 .env
+
+# Files
+.gitignore
+.DS_Store
